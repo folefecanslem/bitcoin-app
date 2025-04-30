@@ -1,0 +1,6 @@
+bitcoin-anomaly-app/
+│
+├── app.py                    # Streamlit main app
+├── model/
+│   ├── autoencoder_model.h5  # Your trained model
+│   └── scaler.pkl            # Pickled StandardScaler
